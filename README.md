@@ -3,7 +3,9 @@
 
 - 👨‍💻Atualmente sou Estagiário.
 - Sou estudante de Ciência da Computação.
-- Estou me voltando para área de programação WEB💻.
+- Estou me voltando para área de programação Front-end💻.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaslongato)](https://git.io/streak-stats)
 
 <div style = "display: inline_block"> <br>
   <h1> O Meu conhecimento</h1>
